@@ -2,8 +2,6 @@
 
 ![0VXrdh5x_400x400 (1)](https://user-images.githubusercontent.com/118047264/227704433-aa1dbe96-67c2-486f-835d-48e61490d82b.jpg)
 
-What is Oasis Infobyte?
-
 OASIS INFOBYTE offers a variety of website design and development services, We specialize in developing interactive, scalable, brand-oriented, and business-ready custom web solutions. Our aim is to build profitable digital products engineered to spark creativity and boost ROI.
 
 Oasis Infobyte is all about creating opportunities for leadership development, learning, and student engagement of shared interests. This repository was created for sharing the tasks given by Oasis Infobyte which comes under Data Science.
